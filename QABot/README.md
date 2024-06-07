@@ -1,0 +1,5 @@
+- **Project Overview**: A QA chatbot application using Streamlit and Google's Generative AI (Gemini Pro model) for interactive user query responses.
+- **Key Features**: Configures and utilizes Google's Gemini Pro model; maintains session history of queries and responses.
+- **Main Components**: Integrates Google's Gemini Pro for response generation; Streamlit interface for user input and response display.
+- **Workflow**: Initializes Generative AI model with API key from environment variables; sets up Streamlit web app for interaction and response handling; maintains chat history within user session.
+- **Environment Setup**: Uses `dotenv` to load Google API key for model configuration.
