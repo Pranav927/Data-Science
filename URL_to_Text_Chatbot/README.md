@@ -1,1 +1,4 @@
-
+- **Project Overview**: A News Chatbot application using Streamlit and LangChain to answer user queries based on information from specified URLs.
+- **Environment Setup**: Configures OpenAI API key for language model integration.
+- **Main Components**: Streamlit interface for user interaction; Selenium for URL content loading; RecursiveCharacterTextSplitter for splitting content; OpenAIEmbeddings for generating document embeddings; **Retrieval-Augmented Generation (RAG)** model for answering queries.
+- **Workflow**: Loads and combines content from given URLs; splits content into chunks; embeds documents and initializes vector index; uses RAG model to answer user queries based on embedded content; displays chatbot response on Streamlit interface.
