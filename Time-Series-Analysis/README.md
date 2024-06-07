@@ -1,0 +1,6 @@
+- **Project Overview**: Time Series Analysis on Meta stock price data, encompassing correlation analysis, ARIMA forecasting, support and resistance analysis, and seasonal pattern analysis.
+- **Data Handling**: Loads stock price data from a CSV file; prepares and cleans data by converting the date column to datetime format and setting it as the index.
+- **Correlation Analysis**: Computes and prints the correlation matrix for stock price variables.
+- **ARIMA Forecasting**: Splits the data into training and test sets; fits an ARIMA model to the training data; forecasts stock prices and plots the forecast against the actual test data.
+- **Support and Resistance Analysis**: Calculates rolling mean and standard deviation; plots stock prices along with rolling mean and bands for support and resistance.
+- **Seasonal Patterns Analysis**: Extracts the month from the date; computes and plots the average stock price for each month to identify seasonal patterns.
