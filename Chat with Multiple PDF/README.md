@@ -104,7 +104,3 @@ The following assumptions were made during the development of this project:
 5. Upload PDF files and ask questions to interact with the PDF content.
 
 ---
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
