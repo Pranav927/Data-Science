@@ -61,6 +61,9 @@ This project relies on the following key components:
 
 ## 📂 Project Structure
 
+![Chat with PDF image](https://github.com/user-attachments/assets/490dcdc8-b469-4f5b-ae50-d3ca78c802b3)
+
+---
 ### Main Components:
 1. **PyPDF2**: Extracts text from uploaded PDF files.
 2. **Langchain Text Splitter**: Splits large texts into smaller, coherent chunks.
