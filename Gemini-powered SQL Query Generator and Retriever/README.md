@@ -29,8 +29,6 @@ The main database structure consists of a single table, **STUDENT**, containing 
 
 The database schema is designed to be simple but scalable, with an emphasis on showcasing the capability of natural language-to-SQL conversion.
 
-![Entity Relationship Diagram](C:\Users\prana\Downloads\Aditi\Pranav\Portfolio_Projects\Gemini_Projects\TexttoSQL\Data_Schema)
-
 ## Executive Summary
 
 ### Overview of Findings
