@@ -1,0 +1,69 @@
+streamlit>=1.28.0
+langchain>=0.1.0
+langchain-community>=0.0.10
+langchain-core>=0.1.0
+ollama>=0.1.7
+
+# Medical Embeddings & NLP
+sentence-transformers>=2.2.2
+transformers>=4.30.0
+torch>=2.0.0
+tokenizers>=0.13.0
+
+# Vector Database (Free)
+chromadb>=0.4.15
+
+PyPDF2>=3.0.1
+python-docx>=0.8.11
+python-pptx>=0.6.21
+
+# Medical Data Sources
+biopython>=1.81
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+
+numpy>=1.24.0
+pandas>=2.0.0
+
+faiss-cpu>=1.7.4
+
+python-dotenv>=1.0.0
+
+plotly>=5.15.0
+altair>=5.0.0
+
+# System Utilities
+psutil>=5.9.0
+pathlib2>=2.3.7
+
+# Text Processing
+nltk>=3.8.0
+spacy>=3.6.0
+
+# HTTP Requests for PubMed API
+urllib3>=2.0.0
+certifi>=2023.7.22
+
+# XML Processing for PubMed
+xmltodict>=0.13.0
+
+# Logging and Monitoring
+logging>=0.4.9.6
+
+python-dateutil>=2.8.0
+
+# Optional: GPU Support (uncomment if you have CUDA GPU)
+# torch-audio>=2.0.0
+# torchaudio>=2.0.0
+
+# Optional: Advanced Medical Models (uncomment if needed)
+# scispacy>=0.5.3
+# en-core-sci-sm @ https://s3-us-west-2.amazonaws.com/ai2-s2-scispacy/releases/v0.5.3/en_core_sci_sm-0.5.3.tar.gz
+
+# Development Dependencies (optional)
+# pytest>=7.0.0
+# black>=23.0.0
+# isort>=5.12.0
+# mypy>=1.5.0
+# flake8>=6.0.0
